@@ -1,6 +1,6 @@
 # Back To Basics
 A front-end themed learning app which uses a unique spaced repetition inspired algorithm
-## You can explore the app [here](https://clever-rosalind-0fcb2a.netlify.com/) 
+## You can explore the app [here](https://btb-graphql.netlify.com) 
 
 ## What does it do?
 As most new developers(and older ones) know all too well, learning the amount of information we do in the relatively short time span can be demanding. It becomes increasingly easy to forget about the front-end web development fundamentals.
